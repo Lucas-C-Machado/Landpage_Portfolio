@@ -21,7 +21,7 @@ E-commerce Pro é uma landing page de alta conversão projetada para plataformas
 
 ### Demonstração
 
-[Link para demonstração ao vivo (se disponível)]
+Link para demonstração:
 
 ## 💻 Tecnologias Utilizadas
 
