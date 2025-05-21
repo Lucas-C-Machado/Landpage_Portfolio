@@ -2,52 +2,52 @@
 
 ![E-commerce Pro](Assets/plataforma_ecommerce.png)
 
-Uma landing page moderna e responsiva para plataformas de e-commerce, desenvolvida com HTML, CSS e JavaScript puros. Este projeto demonstra boas práticas de desenvolvimento front-end, incluindo design responsivo, animações suaves e organização modular de código.
+A modern and responsive landing page for e-commerce platforms, developed with pure HTML, CSS, and JavaScript. This project demonstrates front-end best practices including responsive design, smooth animations, and modular code organization.
 
-## 📋 Índice
+## 📋 Table of Contents
 
-- [Visão Geral](#visão-geral)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Como Executar](#como-executar)
-- [Personalizações](#personalizações)
-- [Próximos Passos](#próximos-passos)
-- [Licença](#licença)
+- [Overview](#overview)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Customizations](#customizations)
+- [Next Steps](#next-steps)
+- [License](#license)
 
-## 🔍 Visão Geral
+## 🔍 Overview
 
-E-commerce Pro é uma landing page de alta conversão projetada para plataformas de e-commerce. O projeto apresenta uma interface moderna e atraente com seções bem definidas para destacar recursos, produtos, depoimentos e muito mais.
+E-commerce Pro is a high-conversion landing page designed for e-commerce platforms. The project features a modern and attractive interface with well-defined sections to highlight features, products, testimonials, and more.
 
-### Demonstração
+### Demo
 
-Link para demonstração:
+Link to demo:
 
-## 💻 Tecnologias Utilizadas
+## 💻 Technologies Used
 
-- **HTML5** - Estrutura semântica
-- **CSS3** - Estilização avançada com variáveis CSS e layouts flexíveis
-- **JavaScript** - Interatividade e animações
-- **Font Awesome** - Ícones
-- **Google Fonts** - Tipografia
+- **HTML5** – Semantic structure  
+- **CSS3** – Advanced styling with CSS variables and flexible layouts  
+- **JavaScript** – Interactivity and animations  
+- **Font Awesome** – Icons  
+- **Google Fonts** – Typography  
 
-## 📁 Estrutura do Projeto
+## 📁 Project Structure
 
 ![image](https://github.com/user-attachments/assets/81542e87-249b-474c-b958-79d860b57378)
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- **Design Responsivo**: Adaptação perfeita para dispositivos móveis, tablets e desktops
-- **Menu de Navegação**: Menu fixo com rolagem suave para as seções
-- **Carrossel de Depoimentos**: Exibição automática e controlada de depoimentos de clientes
-- **FAQ Interativo**: Perguntas e respostas expansíveis
-- **Animações**: Efeitos de entrada, hover e interação
-- **Formulário de Newsletter**: Captura de e-mails com validação
-- **Botão WhatsApp Flutuante**: Acesso rápido ao contato via WhatsApp
-- **Otimização de Performance**: Carregamento otimizado de recursos
+- **Responsive Design:** Perfect adaptation for mobile devices, tablets, and desktops  
+- **Navigation Menu:** Fixed menu with smooth scrolling to sections  
+- **Testimonials Carousel:** Automatic and controlled display of customer testimonials  
+- **Interactive FAQ:** Expandable questions and answers  
+- **Animations:** Entry effects, hover, and interaction  
+- **Newsletter Form:** Email capture with validation  
+- **Floating WhatsApp Button:** Quick access to contact via WhatsApp  
+- **Performance Optimization:** Optimized resource loading  
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
-1. Clone o repositório:
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/seu-usuario/e-commerce-pro.git
+   git clone https://github.com/your-username/e-commerce-pro.git
